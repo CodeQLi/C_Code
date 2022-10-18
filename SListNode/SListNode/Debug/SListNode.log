@@ -1,0 +1,31 @@
+﻿  SList.c
+E:\练习题\SListNode\SListNode\SList.c(24,18): warning C4133: “=”: 从“SLstNode *”到“SLTNode *”的类型不兼容
+E:\练习题\SListNode\SListNode\SList.c(42,21): warning C4133: “=”: 从“SLstNode *”到“SLTNode *”的类型不兼容
+E:\练习题\SListNode\SListNode\SList.c(44,23): warning C4133: “=”: 从“SLTNode *”到“SLstNode *”的类型不兼容
+E:\练习题\SListNode\SListNode\SList.c(68,21): warning C4133: “=”: 从“SLstNode *”到“SLTNode *”的类型不兼容
+E:\练习题\SListNode\SListNode\SList.c(71,22): warning C4133: “=”: 从“SLstNode *”到“SLTNode *”的类型不兼容
+E:\练习题\SListNode\SListNode\SList.c(84,25): warning C4133: “=”: 从“SLTNode *”到“SLstNode *”的类型不兼容
+E:\练习题\SListNode\SListNode\SList.c(89,30): warning C4028: 形参 1 与声明不同
+E:\练习题\SListNode\SListNode\SList.c(103,28): warning C4133: “=”: 从“SLstNode *”到“SLTNode *”的类型不兼容
+E:\练习题\SListNode\SListNode\SList.c(116,18): warning C4133: “=”: 从“SLstNode *”到“SLTNode *”的类型不兼容
+E:\练习题\SListNode\SListNode\SList.c(128,18): warning C4133: “=”: 从“SLstNode *”到“SLTNode *”的类型不兼容
+E:\练习题\SListNode\SListNode\SList.c(131,21): warning C4133: “=”: 从“SLTNode *”到“SLstNode *”的类型不兼容
+E:\练习题\SListNode\SListNode\SList.c(135,32): warning C4028: 形参 1 与声明不同
+E:\练习题\SListNode\SListNode\SList.c(142,25): warning C4133: “=”: 从“SLstNode *”到“SLTNode *”的类型不兼容
+E:\练习题\SListNode\SListNode\SList.c(145,23): warning C4133: “=”: 从“SLstNode *”到“SLTNode *”的类型不兼容
+E:\练习题\SListNode\SListNode\SList.c(138,1): warning C4047: “初始化”:“SLTNode *”与“SLTNode **”的间接级别不同
+  Test.c
+E:\练习题\SListNode\SListNode\Test.c(24,22): warning C4047: “函数”:“SLTNode *”与“SLTNode **”的间接级别不同
+E:\练习题\SListNode\SListNode\Test.c(24,16): warning C4024: “SListPopFront”: 形参和实参 1 的类型不同
+E:\练习题\SListNode\SListNode\Test.c(25,22): warning C4047: “函数”:“SLTNode *”与“SLTNode **”的间接级别不同
+E:\练习题\SListNode\SListNode\Test.c(25,16): warning C4024: “SListPopFront”: 形参和实参 1 的类型不同
+E:\练习题\SListNode\SListNode\Test.c(26,22): warning C4047: “函数”:“SLTNode *”与“SLTNode **”的间接级别不同
+E:\练习题\SListNode\SListNode\Test.c(26,16): warning C4024: “SListPopFront”: 形参和实参 1 的类型不同
+E:\练习题\SListNode\SListNode\Test.c(27,22): warning C4047: “函数”:“SLTNode *”与“SLTNode **”的间接级别不同
+E:\练习题\SListNode\SListNode\Test.c(27,16): warning C4024: “SListPopFront”: 形参和实参 1 的类型不同
+E:\练习题\SListNode\SListNode\Test.c(28,22): warning C4047: “函数”:“SLTNode *”与“SLTNode **”的间接级别不同
+E:\练习题\SListNode\SListNode\Test.c(28,16): warning C4024: “SListPopFront”: 形参和实参 1 的类型不同
+E:\练习题\SListNode\SListNode\Test.c(55,24): warning C4047: “函数”:“SLTNode *”与“SLTNode **”的间接级别不同
+E:\练习题\SListNode\SListNode\Test.c(55,18): warning C4024: “SListEraseAfter”: 形参和实参 1 的类型不同
+  正在生成代码...
+  SListNode.vcxproj -> E:\练习题\SListNode\Debug\SListNode.exe
